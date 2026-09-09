@@ -1,2 +1,17 @@
 # Sales-YoY-Performance-Analysis
-An executive dashboard showing high-level business health, including total sales volume, active client counts, and Year-over-Year (YoY) percentage changes. It aggregates multi-year sales trends by quarter and year, broken down across four global operating regions. Regional codes are mapped, cleaned, and analyzed using Excel lookup functions.
+Q2 2025 Executive Review
+
+[View Workbook](https://1drv.ms/x/c/2db7279d9f3b9894/IQCluT6C0JOHR5qjMHW0NGw5AVc9eN5P8_xeSdmSZvYkX5A?e=qfhlMe)
+
+## BUSINESS CONTEXT
+The board requested an evaluation of Q2 2021 global sales volume across four regions to see if targets were met and what drove growth
+
+ ## OBJECTIVES
+• Analyze Raw Identifiers. Cleaned up raw client IDs using text functions (MID, RIGHT, LEN) so the data could match our reference tables
+• Matched transaction records to their regions using XLOOKUP and INDEX/MATCH, following the region code rules:
+ Ending in 1: North America (NAM)
+ Ending in 3: Europe, Middle East & Africa (EMEA) 
+ Ending in 2 or 4: Asia-Pacific (APAC) and Latin America (LATAM) [assigned by volume rank] • Built Pivot Tables and summary formulas to track total volume, client counts, and average volume per customer across 2020 and 2021• Multi-Period Variance Modeling: Built a dynamic summary model tracking quarterly volume, active client counts, and average volume per customer across 2020–2021.
+
+
+
