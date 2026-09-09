@@ -13,5 +13,11 @@ The board requested an evaluation of Q2 2021 global sales volume across four reg
  Ending in 3: Europe, Middle East & Africa (EMEA) 
  Ending in 2 or 4: Asia-Pacific (APAC) and Latin America (LATAM) [assigned by volume rank] • Built Pivot Tables and summary formulas to track total volume, client counts, and average volume per customer across 2020 and 2021• Multi-Period Variance Modeling: Built a dynamic summary model tracking quarterly volume, active client counts, and average volume per customer across 2020–2021.
 
+ ## Screenshots
+ <img width="943" height="373" alt="yoyp1" src="https://github.com/user-attachments/assets/e2ea9e3f-3b1f-40f5-aa6a-c7a7fea9a294" />
+ <img width="548" height="347" alt="yoyp2" src="https://github.com/user-attachments/assets/759db262-9fab-470e-a7f2-51c19ef19ac1" />
+
+
+
 
 
